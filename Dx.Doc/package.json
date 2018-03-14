@@ -1,0 +1,9 @@
+{
+  "name": "dx.doc",
+  "version": "0.0.0",
+  "description": "Dx.Doc",
+  "main": "server.js",
+  "author": {
+    "name": "DX_txsj"
+  }
+}
